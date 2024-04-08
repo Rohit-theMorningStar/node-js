@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "node js tut",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohit-theMorningStar/node-js.git"
+  },
+  "keywords": [
+    "servercode"
+  ],
+  "author": "rohit achane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohit-theMorningStar/node-js/issues"
+  },
+  "homepage": "https://github.com/Rohit-theMorningStar/node-js#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0"
+  }
+}
